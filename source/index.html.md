@@ -14,15 +14,20 @@ includes:
     - lottery/award
     #彩票走势图
     - lottery/trend
-    - errors
+    #- errors
 
 search: true
 ---
 
-# 简介
+# 简介：Intro
 114彩票API文档
-配置hosts，domain=test.114.com
-```javascript
+
+<aside class="notice">
+    domain=test.114.com
+    配置hosts，C:\Windows\System32\drivers\etc\hosts
+</aside>
+
+```text
 192.168.2.114       test.114.com
 ```
 
